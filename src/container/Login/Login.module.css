@@ -1,0 +1,94 @@
+.pageContainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #fcfcfc;
+}
+
+.logo {
+  max-width: 50px;
+  margin-bottom: 20px;
+}
+
+.buttonContainer {
+  width: 100%;
+  margin-top: 50px;
+}
+
+.mainSection {
+  box-sizing: border-box;
+  width: 80vw;
+  max-width: 350px;
+  max-height: 400px;
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.bottomSection {
+  width: 80vw;
+  max-width: 350px;
+  padding: 20px 40px;
+  box-sizing: border-box;
+}
+
+.badgeSection {
+  margin-top: 20px;
+}
+
+.badgeContainer {
+  margin-top: 20px;
+  display: flex;
+  width: 80vw;
+  max-width: 350px;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.googleBadge {
+  width: 35vw;
+  max-width: 150px;
+}
+
+.appleBadge {
+  width: 35vw;
+  max-width: 150px;
+}
+
+.OTPPageContainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #fcfcfc;
+}
+
+.OTPLogo {
+  max-width: 50px;
+  margin-bottom: 20px;
+}
+
+.OTPMainSection {
+  box-sizing: border-box;
+  width: 80vw;
+  max-width: 400px;
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.OTPBottomSection {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.otpContainer {
+  margin-top: 10px;
+}

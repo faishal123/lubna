@@ -1,0 +1,60 @@
+.text {
+  margin: 5px 0px;
+}
+
+.inline {
+  display: inline;
+}
+
+.teal {
+  color: #31b0a0;
+}
+
+.red {
+  color: #ff2222;
+}
+
+.yellow {
+  color: #ff9e04;
+}
+
+.black {
+  color: #555c5b;
+}
+
+.white {
+  color: white;
+}
+
+.xsmall {
+  font-size: 12px;
+}
+
+.small {
+  font-size: 16px;
+}
+
+.medium {
+  font-size: 20px;
+}
+
+.large {
+  font-size: 26px;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.button {
+  outline: none;
+  cursor: pointer;
+}
